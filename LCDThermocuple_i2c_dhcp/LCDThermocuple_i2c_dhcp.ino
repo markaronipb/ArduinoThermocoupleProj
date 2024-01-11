@@ -1,6 +1,6 @@
 
 #include "max6675.h" // include the thermocouple library code
-#include <LiquidCrystal_I2C.h> // include the lcd library code:
+#include <LiquidCrystal_I2C.h> // include the lcd library code;
 #include <SPI.h> // include the Ethernet library code;
 #include <Ethernet.h> // include the Ethernet library code;
 ////////////////////////////////////////
